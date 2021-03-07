@@ -9,7 +9,7 @@
 
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayChoulwar&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChoulwar)](https://github.com/AkshayChoulwar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChoulwar&hide=jupyter-notebook)](https://github.com/AkshayChoulwar/github-readme-stats)
 <!--
 **AkshayChoulwar/AkshayChoulwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
